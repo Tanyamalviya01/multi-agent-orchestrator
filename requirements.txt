@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langgraph
+langchain-google-genai
+python-dotenv
+pydantic
+chromadb
+langchain-chroma
+streamlit
+requests
