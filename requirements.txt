@@ -2,9 +2,14 @@ fastapi
 uvicorn
 langgraph
 langchain-google-genai
+langchain-community
+langchain-text-splitters
+langchain-chroma
 python-dotenv
 pydantic
 chromadb
-langchain-chroma
+pysqlite3-binary
 streamlit
 requests
+pypdf
+python-multipart
